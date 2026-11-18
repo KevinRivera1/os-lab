@@ -147,17 +147,11 @@ http://localhost:5173/
 ```
 ---
 
-## 🎓 Contexto académico
-
-Proyecto académico desarrollado como complemento práctico de la asignatura de **Sistemas Operativos**, con el propósito de transformar los contenidos teóricos en experiencias de aprendizaje interactivas.
-
----
-
 ## 👨‍💻 Desarrollo
 
 **Proyecto:** OS LAB — Laboratorio Interactivo de Sistemas Operativos.
 
-**Repositorio:** [GitHub - os-lab](https://github.com/TU-USUARIO/os-lab)
+**Repositorio:** [GitHub - os-lab](https://github.com/KevinRivera1/os-lab.git)
 
 ---
 
