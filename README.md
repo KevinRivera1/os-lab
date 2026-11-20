@@ -119,7 +119,7 @@ os-lab/
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/TU-USUARIO/os-lab.git
+git clone https://github.com/KevinRivera1/os-lab.git
 ```
 
 ### 2. Acceder al proyecto
